@@ -1,0 +1,3 @@
+Name: Sally Samir   Phone number: 012344321   Email: sallysamir@gmail.com
+Name: Malak Ahmed   Phone number: 0123456789   Email: malakahmed@gmail.com
+Name: Maya Sayed   Phone number: 0145672435   Email: maya@icloud.com

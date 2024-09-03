@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1725375255 source:c:\users\user\documents\files code\simple contact management\main.cpp
+	<iostream>
+	<string>
+	"Contacts.h"
+
+1725375724 c:\users\user\documents\files code\simple contact management\include\contacts.h
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<limits>
+
